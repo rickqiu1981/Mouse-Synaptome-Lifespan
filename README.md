@@ -49,6 +49,6 @@ Matlab code to calculate and plot the lifespan trajectories of similarity ratio(
 Matlab code to calculate and plot the lifespan trajectories of similarity ratio  in 12 brain regions (Figure S17).
 
 
-###References
+### References
 
 Cizeron, M.*, Qiu, Z.*, Koniaris, B., Gokhale, R., Komiyama, N., Fransén, E., Grant, S.G.N. (2020). A brain-wide atlas of synapses across the mouse lifespan. (* Equal contribution) 
