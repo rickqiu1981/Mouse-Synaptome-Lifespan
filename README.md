@@ -28,25 +28,25 @@ Matlab code to test  if the 18M, in contrast to 3M, is more similart to 2W. (Fig
 #### 4. compare_hypersimi_2Wto3M_2Wto18M_HPF
 Matlab code to test  if the 18M in Hippocampal formation, in contrast to 3M, is more similar to 2W. (Figure S19, 18M2W versus 3M2W). This was done by using the hypersimilarity matrix Figure 3D.
 #### 5. permutation_test_simi_ratio, permutation_test_simi_ratio_time, permutation_test_simi_ratio_spacetime, 
-Permutation test to test the significance of the similarity ratio. Firstly permute the regions of similarity matrices (Figure S16) in space for each age group, then permute the matrices (Figure S16) of different age groups of the same region for time, finally permute the hyper-similarity matrix figure 3D in both space and time.
+Permutation test to test the significance of the similarity ratio. Firstly permute the regions of similarity matrices (Figure S16) in space for each age group, then permute the matrices (Figure S16) of different age groups of the same region for time, finally permute the hypersimilarity matrix (Figure 3D) in both space and time.
 #### 6. plot_heatmap_trajectories_full_parameters
-matlab code to plot the heatmap(Figure S5) of trajectories of PSD95 and SAP102 parameters. 
+Matlab code to plot the heatmap(Figure S5) of trajectories of PSD95 and SAP102 parameters. 
 #### 7. plot_class_heatmap
-matlab code to plot the heat maps (Figures 2A-C, S9-11)of 3 types and 37 subtypes on 12 brain regions.
+Matlab code to plot the heat maps (Figures 2A-C, S9-11)of 3 types and 37 subtypes on 12 brain regions.
 #### 8. plot_diversity_lifespan
-matlab code to plot the diversity lifespan trajectories (Figure 2F) on 12 brain regions.
+Matlab code to plot the diversity lifespan trajectories (Figure 2F) on 12 brain regions.
 #### 9. plot_diversity_lifespan_unsupervised
-matlab code to  plot the unsupervised diversity brain maps (Figures 2G, S15).
+Matlab code to  plot the unsupervised diversity brain maps (Figures 2G, S15).
 #### 10. plot_correlation_classpercent_simiratio
-matlab code to plot the correlation (Figure S20)between lifespan trajectories of synapse subtype percentage and similarity ratio in brain  regions .
+Matlab code to plot the correlation (Figure S20)between lifespan trajectories of synapse subtype percentage and similarity ratio in brain  regions .
 #### 11. plot_hypersimi_matrix
-matlab code to plot the hyper similarity matrix (Figures 3C and S18)for the whole section.
+Matlab code to plot the hypersimilarity matrix (Figures 3C and S18)for the whole section.
 #### 12. plot_hypersimi_matrix_HPF
-matlab code to plot the hyper similarity matrix of hippocampal formation (Figures 3D).
+Matlab code to plot the hypersimilarity matrix of hippocampal formation (Figures 3D).
 #### 13. plot_ratio_withintobetweenregion
-matlab code to calculat and plot the similarity ratio lifespan trajectories (Figure 3B).
-#### 14. plot_ratio_withintobetweenregion_per_region.m
-matlab code to calculat and plot the similarity ratio lifespan trajectories in 12 brain regions (Figure S17 ).
+Matlab code to calculate and plot the lifespan trajectories of similarity ratio(Figure 3B).
+#### 14. plot_ratio_withintobetweenregion_per_region
+Matlab code to calculate and plot the lifespan trajectories of similarity ratio  in 12 brain regions (Figure S17).
 
 
 ###References
