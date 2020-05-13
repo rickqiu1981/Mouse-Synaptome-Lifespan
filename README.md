@@ -51,4 +51,4 @@ matlab code to calculat and plot the similarity ratio lifespan trajectories in 1
 
 ###References
 
-Cizeron, M.*, Qiu, Z.*, Koniaris, B., Gokhale, R., Komiyama, N., Fransén, E., Grant, S.G.N. (2020). A brain-wide atlas of synapses across the mouse lifespan. (* Equal contribution) Submitted to Science
+Cizeron, M.*, Qiu, Z.*, Koniaris, B., Gokhale, R., Komiyama, N., Fransén, E., Grant, S.G.N. (2020). A brain-wide atlas of synapses across the mouse lifespan. (* Equal contribution) 
