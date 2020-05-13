@@ -20,11 +20,11 @@ The code  is licensed  under the MIT License (refer to the LICENSE file for deta
 
 ### Descriptions
 #### 1. compare_3Mto18M_full_parameter
-Matlab code to generate Figure. 1C: compare the puncta parameters of 3M with that of 18M in 109 brain regions, 
+Matlab code to generate Figure. 1C: compare the puncta parameters of 3M with that of 18M in 109 brain regions.
 #### 2. compare_3Mto18M_subtypes
-Matlab code to generate Figure. S13: compare the puncta subtype densities of 37 subtype between 3M with that of 18M in 109 brain regions, 
+Matlab code to generate Figure. S13: compare the puncta subtype densities of 37 subtype between 3M with that of 18M in 109 brain regions.
 #### 3. compare_hypersimi_2Wto3M_2Wto18M 
-Matlab code to test  if the 18M, in contrast to 3M, is more similart to 2W. (Figure S19, 18M2W versus 3M2W). THis was done by using the hypersimilarity matrix Figure 3C.
+Matlab code to test  if the 18M, in contrast to 3M, is more similart to 2W. (Figure S19, 18M2W versus 3M2W). This was done by using the hypersimilarity matrix Figure 3C.
 #### 4. compare_hypersimi_2Wto3M_2Wto18M_HPF
 Matlab code to test (Figure S19) if the 18M in Hippocampal formation, in contrast to 3M, is more similar to 2W. (18M2W V.S. 3M2W). This was done by using the hypersimilarity matrix Figure 3D.
 #### 5. permutation_test_simi_ratio, permutation_test_simi_ratio_time, permutation_test_simi_ratio_spacetime, 
