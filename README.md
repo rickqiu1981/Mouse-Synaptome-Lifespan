@@ -1,7 +1,11 @@
 ## Mouse Lifespan Synaptome Atlas code
 
-Created by Zhen Qiu
+Created by Zhen Qiu, Seth Grant
 
+Contact Details:
+
+z.qiu@ed.ac.uk
+s.grant@ed.ac.uk
 
 ### Introduction
 Matlab code to generate figures for the manuscript 'Cizeron, M.*, Qiu, Z.*, Koniaris, B., Gokhale, R., Komiyama, N., Fransén, E., Grant, S.G.N. (2020). A brain-wide atlas of synapses across the mouse lifespan. (* Equal contribution)'.  
