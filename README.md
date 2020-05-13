@@ -19,7 +19,8 @@ The code  is licensed  under the MIT License (refer to the LICENSE file for deta
 
 
 ### Descriptions
-1. compare_3Mto18M_full_parameter.m
+#### 1. compare_3Mto18M_full_parameter.m
+
 Matlab code to geneate Figure. 1C: compare the puncta parameters of 3M with that of 18M in 109 brain regions, 
 2. compare_3Mto18M_subtypes.m
 Matlab code to geneate Figure. S13: compare the puncta subtype densities of 37 sbutypes between 3M with that of 18M in 109 brain regions, 
