@@ -1,4 +1,4 @@
-## Mouse lifespan synaptome project
+## Mouse Lifespan Synaptome Atlas code
 
 Created by Zhen Qiu
 
